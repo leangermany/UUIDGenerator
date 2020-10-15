@@ -1,0 +1,7 @@
+title: UUIDGenerator
+author: leander adam
+desc: 
+this small runnable uses the java.util.UUID to generate 
+a random UUID like "83f19e95-361d-4022-bc1f-393666b18431"
+and prints it on the commmand line and also copies it
+to the windows clipboard.
